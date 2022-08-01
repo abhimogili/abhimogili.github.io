@@ -7,3 +7,4 @@ gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 gem 'jekyll-include-cache'
+gem "minimal-mistakes-jekyll"
